@@ -1,0 +1,6 @@
+{
+ "Shapes": [{"prefabShape":"Bar","rotationZ":0.0,"level":14,"x":1.0,"y":0.8},{"prefabShape":"Triangle","rotationZ":0.0,"level":14,"x":1.5,"y":1.5},{"prefabShape":"Circle","rotationZ":0.0,"level":14,"x":1.0,"y":1.0},
+	]
+"Platform": [{"shape":"0","posX":0.0,"posY":-2.25,"posZ":0.0,"rotX":0.0,"rotY":0.0,"rotZ":0.0,"scaleX":0.5,"scaleY":0.5,"scaleZ":1.0},
+	]
+}

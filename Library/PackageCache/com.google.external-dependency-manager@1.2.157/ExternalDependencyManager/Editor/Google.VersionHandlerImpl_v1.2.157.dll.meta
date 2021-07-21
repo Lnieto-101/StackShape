@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2ada0a3f9b69486d965bb4acd07cc431
+labels:
+- gvh
+- gvh_version-1.2.157
+- gvhp_exportpath-ExternalDependencyManager/Editor/Google.VersionHandlerImpl_v1.2.157.dll
+- gvhp_targets-editor
+timeCreated: 1480838400
+PluginImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  iconMap: {}
+  executionOrder: {}
+  isPreloaded: 0
+  isOverridable: 0
+  platformData:
+    Editor:
+      enabled: 1
+  userData:
+  assetBundleName:
+  assetBundleVariant:

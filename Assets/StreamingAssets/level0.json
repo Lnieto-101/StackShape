@@ -1,0 +1,6 @@
+{
+ "Shapes": [{"prefabShape":"Square","rotationZ":0.0,"level":1,"x":1.2000000476837159,"y":1.2000000476837159},{"prefabShape":"Square","rotationZ":0.0,"level":1,"x":0.800000011920929,"y":0.800000011920929},
+	]
+"Platform": [{"shape":"3","posX":0.0,"posY":-3.5,"posZ":0.0,"rotX":0.0,"rotY":0.0,"rotZ":0.0,"scaleX":0.75,"scaleY":0.75,"scaleZ":1.0},
+	]
+}

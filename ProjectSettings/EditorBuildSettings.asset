@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/ExampleAdmob/Scenes/MainScene.unity
+    guid: 2109d82a2b35f4e33afbd22b194af804
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: db51e4bb490185e4d930e7503f222149
+  - enabled: 1
+    path: Assets/Scenes/LoadLevel.unity
+    guid: 47bc5185dddc50a42b8ad4c75d6fb6a2
+  - enabled: 0
+    path: Assets/Scenes/CreateLevel.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Tuto.unity
+    guid: eac8f40b56726514cb106bb4c5f9af1e
+  - enabled: 0
+    path: Assets/Scenes/CreateAutoLevel.unity
+    guid: e4303a67f7845dd4085c3f9a9fdf098d
+  - enabled: 1
+    path: Assets/Scenes/MinigameGoHigh.unity
+    guid: 0849175620434834dba456df7709763c
+  m_configObjects: {}

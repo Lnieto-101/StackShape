@@ -1,0 +1,6 @@
+{
+ "Shapes": [{"prefabShape":"Triangle","rotationZ":135.5,"level":120,"x":0.5981301665306091,"y":0.5981301665306091},{"prefabShape":"Cross","rotationZ":0.0,"level":120,"x":0.7649229168891907,"y":0.7649229168891907},{"prefabShape":"Square","rotationZ":90.5,"level":120,"x":1.2256830930709839,"y":1.2256830930709839},
+	]
+"Platform": [{"shape":"2","posX":-0.17775273323059083,"posY":-3.000972270965576,"posZ":1.0,"rotX":0.0,"rotY":0.0,"rotZ":180.0,"scaleX":0.6558362245559692,"scaleY":0.6558362245559692,"scaleZ":1.0},
+	]
+}

@@ -1,0 +1,6 @@
+{
+ "Shapes": [{"prefabShape":"Circle","rotationZ":-180.0,"level":105,"x":0.6562981605529785,"y":0.6562981605529785},{"prefabShape":"Triangle","rotationZ":90.5,"level":105,"x":0.32663434743881228,"y":0.32663434743881228},{"prefabShape":"Cross","rotationZ":-135.5,"level":105,"x":0.3050345182418823,"y":0.3050345182418823},{"prefabShape":"Square","rotationZ":-90.5,"level":105,"x":1.35868239402771,"y":1.35868239402771},{"prefabShape":"Bar","rotationZ":45.5,"level":105,"x":0.4018971621990204,"y":0.4018971621990204},{"prefabShape":"Triangle","rotationZ":-180.0,"level":105,"x":1.1164430379867554,"y":1.1164430379867554},
+	]
+"Platform": [{"shape":"4","posX":1.1919655799865723,"posY":-1.523821473121643,"posZ":1.0,"rotX":0.0,"rotY":0.0,"rotZ":180.0,"scaleX":0.6175037026405335,"scaleY":0.6175037026405335,"scaleZ":1.0},{"shape":"1","posX":-1.6680479049682618,"posY":-2.468478202819824,"posZ":1.0,"rotX":0.0,"rotY":0.0,"rotZ":180.0,"scaleX":0.4655364453792572,"scaleY":0.4655364453792572,"scaleZ":1.0},
+	]
+}
